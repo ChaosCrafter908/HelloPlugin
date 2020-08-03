@@ -1,1 +1,9 @@
+name: HelloPlugin
+main: HelloPlugin\Main
+author: ChaosCrafter908
+api: 3.14.0
+version: 1.0
 
+Commands:
+ hello:
+  description: "Says Hello"
